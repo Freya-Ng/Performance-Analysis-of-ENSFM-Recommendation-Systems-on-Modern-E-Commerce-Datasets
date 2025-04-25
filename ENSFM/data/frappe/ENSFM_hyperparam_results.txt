@@ -1,0 +1,170 @@
+lr=0.05, dropout=0.1, neg_weight=0.001
+Final HR@10: 0.3681724239740183  NDCG@10: 0.22417948232987725
+
+lr=0.05, dropout=0.1, neg_weight=0.005
+Final HR@10: 0.3826395039858282  NDCG@10: 0.24363841544612527
+
+lr=0.05, dropout=0.1, neg_weight=0.01
+Final HR@10: 0.3808680248007086  NDCG@10: 0.23980901195642784
+
+lr=0.05, dropout=0.1, neg_weight=0.05
+Final HR@10: 0.37171538234425744  NDCG@10: 0.23346652156184564
+
+lr=0.05, dropout=0.1, neg_weight=0.1
+Final HR@10: 0.3720106288751107  NDCG@10: 0.2332573751211131
+
+lr=0.05, dropout=0.1, neg_weight=0.5
+Final HR@10: 0.3699439031591379  NDCG@10: 0.23216240764248242
+
+lr=0.05, dropout=0.1, neg_weight=1.0
+Final HR@10: 0.37023914968999116  NDCG@10: 0.23237738698121144
+
+lr=0.05, dropout=0.3, neg_weight=0.001
+Final HR@10: 0.4301741954532034  NDCG@10: 0.25541840779544983
+
+lr=0.05, dropout=0.3, neg_weight=0.005
+Final HR@10: 0.44434602893416003  NDCG@10: 0.27469874334104205
+
+lr=0.05, dropout=0.3, neg_weight=0.01
+Final HR@10: 0.4068497195157957  NDCG@10: 0.25382208530997213
+
+lr=0.05, dropout=0.3, neg_weight=0.05
+Final HR@10: 0.3770298198996162  NDCG@10: 0.23541987714125867
+
+lr=0.05, dropout=0.3, neg_weight=0.1
+Final HR@10: 0.3870682019486271  NDCG@10: 0.2500864936246616
+
+lr=0.05, dropout=0.3, neg_weight=0.5
+Final HR@10: 0.37319161499852377  NDCG@10: 0.2331029417952077
+
+lr=0.05, dropout=0.3, neg_weight=1.0
+Final HR@10: 0.37407735459108354  NDCG@10: 0.23465516991138782
+
+lr=0.05, dropout=0.5, neg_weight=0.001
+Final HR@10: 0.4974904044877473  NDCG@10: 0.27702699519357094
+
+lr=0.05, dropout=0.5, neg_weight=0.005
+Final HR@10: 0.5326247416592855  NDCG@10: 0.3220727503874043
+
+lr=0.05, dropout=0.5, neg_weight=0.01
+Final HR@10: 0.5497490404487747  NDCG@10: 0.33347302336357243
+
+lr=0.05, dropout=0.5, neg_weight=0.05
+Final HR@10: 0.4744611750811928  NDCG@10: 0.30065014257657513
+
+lr=0.05, dropout=0.5, neg_weight=0.1
+Final HR@10: 0.42840271626808385  NDCG@10: 0.2855474908617151
+
+lr=0.05, dropout=0.5, neg_weight=0.5
+Final HR@10: 0.3752583407144966  NDCG@10: 0.24429785296198023
+
+lr=0.05, dropout=0.5, neg_weight=1.0
+Final HR@10: 0.37407735459108354  NDCG@10: 0.23843332186531443
+
+lr=0.05, dropout=0.7, neg_weight=0.001
+Final HR@10: 0.5155004428697962  NDCG@10: 0.28430638516760137
+
+lr=0.05, dropout=0.7, neg_weight=0.005
+Final HR@10: 0.5978742249778565  NDCG@10: 0.3510537017219757
+
+lr=0.05, dropout=0.7, neg_weight=0.01
+Final HR@10: 0.5896073221139652  NDCG@10: 0.36615915697573015
+
+lr=0.05, dropout=0.7, neg_weight=0.05
+Final HR@10: 0.525243578387954  NDCG@10: 0.34586184568530887
+
+lr=0.05, dropout=0.7, neg_weight=0.1
+Final HR@10: 0.47534691467375256  NDCG@10: 0.31937777687377944
+
+lr=0.05, dropout=0.7, neg_weight=0.5
+Final HR@10: 0.3988780631827576  NDCG@10: 0.2790839322359657
+
+lr=0.05, dropout=0.7, neg_weight=1.0
+Final HR@10: 0.3776203129613227  NDCG@10: 0.2412794346875911
+
+lr=0.05, dropout=0.9, neg_weight=0.001
+Final HR@10: 0.5137289636846767  NDCG@10: 0.26660389672469675
+
+lr=0.05, dropout=0.9, neg_weight=0.005
+Final HR@10: 0.6300560968408622  NDCG@10: 0.37594471673427776
+
+lr=0.05, dropout=0.9, neg_weight=0.01
+Final HR@10: 0.6353705343962208  NDCG@10: 0.39989285080123727
+
+lr=0.05, dropout=0.9, neg_weight=0.05
+Final HR@10: 0.5317390020667258  NDCG@10: 0.351360038268227
+
+lr=0.05, dropout=0.9, neg_weight=0.1
+Final HR@10: 0.4461175081192796  NDCG@10: 0.3016668318169108
+
+lr=0.05, dropout=0.9, neg_weight=0.5
+Final HR@10: 0.3826395039858282  NDCG@10: 0.2581361958797836
+
+lr=0.05, dropout=0.9, neg_weight=1.0
+Final HR@10: 0.3773250664304694  NDCG@10: 0.24409224668210885
+
+lr=0.05, dropout=1.0, neg_weight=0.001
+Final HR@10: 0.5400059049306171  NDCG@10: 0.26524337264371123
+
+lr=0.05, dropout=1.0, neg_weight=0.005
+Final HR@10: 0.6406849719515796  NDCG@10: 0.36545243161529734
+
+lr=0.05, dropout=1.0, neg_weight=0.01
+Final HR@10: 0.62533215234721  NDCG@10: 0.3765637615544001
+
+lr=0.05, dropout=1.0, neg_weight=0.05
+Final HR@10: 0.5202243873634484  NDCG@10: 0.33809744998810626
+
+lr=0.05, dropout=1.0, neg_weight=0.1
+Final HR@10: 0.4782993799822852  NDCG@10: 0.31912886458483397
+
+lr=0.05, dropout=1.0, neg_weight=0.5
+Final HR@10: 0.3767345733687629  NDCG@10: 0.24427186461676628
+
+lr=0.05, dropout=1.0, neg_weight=1.0
+Final HR@10: 0.3785060525538825  NDCG@10: 0.24454796890729458
+
+
+Sorted hyperparameter search results (by HR@10 in descending order):
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 0.005)  => HR@10: 0.6406849719515796, NDCG@10: 0.36545243161529734
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 0.01)  => HR@10: 0.6353705343962208, NDCG@10: 0.39989285080123727
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 0.005)  => HR@10: 0.6300560968408622, NDCG@10: 0.37594471673427776
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 0.01)  => HR@10: 0.62533215234721, NDCG@10: 0.3765637615544001
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 0.005)  => HR@10: 0.5978742249778565, NDCG@10: 0.3510537017219757
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 0.01)  => HR@10: 0.5896073221139652, NDCG@10: 0.36615915697573015
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 0.01)  => HR@10: 0.5497490404487747, NDCG@10: 0.33347302336357243
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 0.001)  => HR@10: 0.5400059049306171, NDCG@10: 0.26524337264371123
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 0.005)  => HR@10: 0.5326247416592855, NDCG@10: 0.3220727503874043
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 0.05)  => HR@10: 0.5317390020667258, NDCG@10: 0.351360038268227
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 0.05)  => HR@10: 0.525243578387954, NDCG@10: 0.34586184568530887
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 0.05)  => HR@10: 0.5202243873634484, NDCG@10: 0.33809744998810626
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 0.001)  => HR@10: 0.5155004428697962, NDCG@10: 0.28430638516760137
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 0.001)  => HR@10: 0.5137289636846767, NDCG@10: 0.26660389672469675
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 0.001)  => HR@10: 0.4974904044877473, NDCG@10: 0.27702699519357094
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 0.1)  => HR@10: 0.4782993799822852, NDCG@10: 0.31912886458483397
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 0.1)  => HR@10: 0.47534691467375256, NDCG@10: 0.31937777687377944
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 0.05)  => HR@10: 0.4744611750811928, NDCG@10: 0.30065014257657513
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 0.1)  => HR@10: 0.4461175081192796, NDCG@10: 0.3016668318169108
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 0.005)  => HR@10: 0.44434602893416003, NDCG@10: 0.27469874334104205
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 0.001)  => HR@10: 0.4301741954532034, NDCG@10: 0.25541840779544983
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 0.1)  => HR@10: 0.42840271626808385, NDCG@10: 0.2855474908617151
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 0.01)  => HR@10: 0.4068497195157957, NDCG@10: 0.25382208530997213
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 0.5)  => HR@10: 0.3988780631827576, NDCG@10: 0.2790839322359657
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 0.1)  => HR@10: 0.3870682019486271, NDCG@10: 0.2500864936246616
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 0.005)  => HR@10: 0.3826395039858282, NDCG@10: 0.24363841544612527
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 0.5)  => HR@10: 0.3826395039858282, NDCG@10: 0.2581361958797836
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 0.01)  => HR@10: 0.3808680248007086, NDCG@10: 0.23980901195642784
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 1.0)  => HR@10: 0.3785060525538825, NDCG@10: 0.24454796890729458
+Parameters (lr, dropout, neg_weight): (0.05, 0.7, 1.0)  => HR@10: 0.3776203129613227, NDCG@10: 0.2412794346875911
+Parameters (lr, dropout, neg_weight): (0.05, 0.9, 1.0)  => HR@10: 0.3773250664304694, NDCG@10: 0.24409224668210885
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 0.05)  => HR@10: 0.3770298198996162, NDCG@10: 0.23541987714125867
+Parameters (lr, dropout, neg_weight): (0.05, 1.0, 0.5)  => HR@10: 0.3767345733687629, NDCG@10: 0.24427186461676628
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 0.5)  => HR@10: 0.3752583407144966, NDCG@10: 0.24429785296198023
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 1.0)  => HR@10: 0.37407735459108354, NDCG@10: 0.23465516991138782
+Parameters (lr, dropout, neg_weight): (0.05, 0.5, 1.0)  => HR@10: 0.37407735459108354, NDCG@10: 0.23843332186531443
+Parameters (lr, dropout, neg_weight): (0.05, 0.3, 0.5)  => HR@10: 0.37319161499852377, NDCG@10: 0.2331029417952077
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 0.1)  => HR@10: 0.3720106288751107, NDCG@10: 0.2332573751211131
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 0.05)  => HR@10: 0.37171538234425744, NDCG@10: 0.23346652156184564
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 1.0)  => HR@10: 0.37023914968999116, NDCG@10: 0.23237738698121144
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 0.5)  => HR@10: 0.3699439031591379, NDCG@10: 0.23216240764248242
+Parameters (lr, dropout, neg_weight): (0.05, 0.1, 0.001)  => HR@10: 0.3681724239740183, NDCG@10: 0.22417948232987725
